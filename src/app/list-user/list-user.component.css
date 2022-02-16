@@ -1,0 +1,9 @@
+table {
+  width: 100%;
+}
+
+.mat-header-row {
+  position: sticky;
+  top: 0;
+  background-color: inherit;
+}
